@@ -18,7 +18,7 @@
 
    **↓**
 
-- **2019–2022 — Gameplay becomes a scientific interaction research program.** George Ahiakwa combines game interaction with laboratory-equipment instructions, **molecular-folding mechanics** and **L-system concepts**, testing how **scientific workflows** can be expressed in first-person, third-person, and virtual reality (VR) modes — and made spatially legible to players across all three immersive perspectives.
+- **2019–2022 — Gameplay becomes a scientific interaction research program.** George Ahiakwa combines game interaction with laboratory-equipment instructions, **molecular-folding mechanics** and **L-system concepts**, testing how **scientific workflows** can be expressed in ***first-person, third-person, and virtual reality (VR)*** modes — and made spatially legible to players across all three immersive perspectives.
 
    **↓**
 
