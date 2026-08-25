@@ -2,6 +2,35 @@
 
 ## 18-year evolution timeline: Foldit → qFoldit
 
+```text
+                         Product architecture
+                                  │
+        ┌─────────────────────────┼─────────────────────────┐
+        ↓                         ↓                         ↓
+    Biological                 Chemical                 Materials
+    Sequence                  Drug Design                Design
+        │                         │                         │
+        └─────────────────────────┼─────────────────────────┘
+                                  ↓
+                           Knowledge Plane
+                                  ↓
+                           AI / MCP / RAG
+                                  ↓
+                     Human–AI Collective Search
+                                  ↓
+                              UAG / UWI
+                                  ↓
+                       Runtime Adapters
+                                  ↓
+                    UEFN / UNIGINE / UNITY / WEB
+                                  ↓
+                      Scientific Validation
+                                  ↓
+                            Evidence 1.1
+                                  ↓
+                          Strategy Memory
+```
+
 - **2008-05-08 — Foldit launches.** A protein-folding game created by the University of Washington **Baker Lab** and **Center for Game Science** establishes the core proposition: human gameplay can become a scientific research instrument.
 
 - **2011-09 — Foldit players solve the M-PMV retroviral protease structure in three weeks.** The result demonstrates that human spatial reasoning and collective search can solve difficult molecular-structure problems that had resisted conventional approaches.
