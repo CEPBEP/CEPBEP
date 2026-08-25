@@ -1,5 +1,55 @@
 ## Hi, i am George Ahiakwa - Founder & CEO — qFoldIT
 
+# Historical evolution
+
+The most concise way to understand the 18-year lineage is:
+
+```text
+2008
+FOLDIT
+Human game-based scientific search
+        ↓
+2011
+Scientific breakthrough through players
+M-PMV protease
+        ↓
+2012
+Player-guided experimental protein redesign
+        ↓
+2019+
+qFoldIT development direction
+Game mechanics → reusable scientific mechanics
+        ↓
+2022
+LEGO / constructor paradigm
+Scientific work decomposed into reusable objects
+        ↓
+2026
+Claude Science
+AI agents become scientific workflow participants
+        ↓
+2026-08-18
+Claude protein-design results
+AI-generated candidates reach physical validation
+        ↓
+2026-08-20
+Epic Unreal MCP enters UEFN
+AI can directly operate the runtime/editor
+        ↓
+2026-08-21+
+qFoldIT canonical contract architecture
+Mission → UAG → Runtime → Submission → Validation → Evidence
+        ↓
+2026-08-23/24
+Rust consolidation + scientific-adapter mesh
+        ↓
+2026-08-24/25
+Enterprise Partner → Mission → Runtime → Validator → Evidence
+        ↓
+NEXT
+B2B Physical-AI verification and scientific mission delivery
+```
+
 I lead **qFoldIT**, a scientific technology initiative focused on turning complex scientific and industrial objectives into **interactive, computationally grounded missions** that can be explored by people, AI agents and simulation systems.
 
 The central idea is simple:
