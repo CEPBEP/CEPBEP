@@ -1,6 +1,6 @@
 ## Hi, i am George Ahiakwa - Founder & CEO — qFoldIT
 
-# Historicalthe 18-year evolution timeline: Foldit → qFoldIT
+# 18-year evolution timeline: Foldit → qFoldIT
 
 - **2008-05-08 — Foldit launches.** A protein-folding game created by the University of Washington Baker Lab and Center for Game Science establishes the core proposition: human gameplay can become a scientific research instrument.
 
