@@ -46,7 +46,7 @@
 
    **↓**
 
-- **2026-08-21 — qFoldIT formalizes its canonical architecture.** Enterprise mission governance, mission contracts, Rust control-plane orchestration, **UAG/runtime adapters**, **scientific validators**, **evidence/provenance** and strategy memory are separated into explicit authority boundaries. This is the decisive transition from **“scientific game”** to a **governed scientific execution platform**.
+- **2026-08-21 — qFoldIT formalizes its canonical architecture.** Enterprise mission governance, mission contracts, Rust control-plane orchestration, **UAG/runtime adapters**, **scientific validators**, **evidence/provenance** and strategy memory are separated into explicit authority boundaries. This is the decisive transition from **“scientific game”** to a **“governed scientific execution platform”**.
 
    **↓**
 
@@ -54,7 +54,7 @@
 
    **↓**
 
-- **2026-08-23 — qfoldit-core becomes the canonical Rust contract layer.** Mission contracts, Scientific Action Envelopes, UAG, submissions, evidence, execution lineage and strategy memory are consolidated into a common systems layer, reducing fragmentation across engines and adapters.
+- **2026-08-23 — qFoldit-core becomes the canonical Rust contract layer.** Mission contracts, Scientific Action Envelopes, UAG, submissions, evidence, execution lineage and strategy memory are consolidated into a common systems layer, reducing fragmentation across engines and adapters.
 
    **↓**
 
