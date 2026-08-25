@@ -50,7 +50,7 @@
 
    **↓**
 
-- **2026-08-21 — Pop-Culture / Attention Capture becomes an explicit architectural layer.** LEGO-like construction, original IP and properly licensed external properties, including potential Disney and Warner Bros. Discovery use cases, are treated as engagement and presentation layers above the scientific system, preserving a strict separation between audience acquisition, content rights and scientific authority.
+- **2026-08-21 — Pop-Culture / Attention Capture becomes an explicit architectural layer.** **LEGO**-like construction, **original IP*** and properly licensed external properties, including potential **Disney** and **Warner Bros. Discovery** use cases, are treated as engagement and presentation layers above the scientific system, preserving a strict separation between audience acquisition, content rights and scientific authority.
 
    **↓**
 
