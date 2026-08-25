@@ -54,7 +54,7 @@
                                   ↓
                               UAG / UWI
                                   ↓
-                       Runtime Adapters
+                          Runtime Adapters
                                   ↓
                     UEFN / UNIGINE / UNITY / WEB
                                   ↓
