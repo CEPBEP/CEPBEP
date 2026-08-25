@@ -2,35 +2,6 @@
 
 ## 18-year evolution timeline: Foldit → qFoldit
 
-```text
-                         Product architecture
-                                  │
-        ┌─────────────────────────┼─────────────────────────┐
-        ↓                         ↓                         ↓
-    Biological                 Chemical                 Materials
-    Sequence                  Drug Design                Design
-        │                         │                         │
-        └─────────────────────────┼─────────────────────────┘
-                                  ↓
-                           Knowledge Plane
-                                  ↓
-                           AI / MCP / RAG
-                                  ↓
-                     Human–AI Collective Search
-                                  ↓
-                              UAG / UWI
-                                  ↓
-                       Runtime Adapters
-                                  ↓
-                    UEFN / UNIGINE / UNITY / WEB
-                                  ↓
-                      Scientific Validation
-                                  ↓
-                            Evidence 1.1
-                                  ↓
-                          Strategy Memory
-```
-
 - **2008-05-08 — Foldit launches.** A protein-folding game created by the University of Washington **Baker Lab** and **Center for Game Science** establishes the core proposition: human gameplay can become a scientific research instrument.
 
 - **2011-09 — Foldit players solve the M-PMV retroviral protease structure in three weeks.** The result demonstrates that human spatial reasoning and collective search can solve difficult molecular-structure problems that had resisted conventional approaches.
@@ -64,6 +35,35 @@
 - **2026-08-25 — qFoldIT reaches its current platform state.** The **Foldit** legacy of human scientific search is extended into a cross-runtime, agent-connected, evidence-bound execution system: enterprise mission → governed contract → AI/human orchestration → UAG → runtime → submission → independent validation → evidence → validated strategy.
 
 - **2026-08-25 — Institutional platform thesis.** **qFoldIT** is positioned as a governed B2B **scientific/Physical-AI** verification pipeline: private runtime nodes can be isolated by organization, scientific authority remains external to gameplay, AI actions remain attributable, and every validated result can be traced from mission intake to scientific evidence.
+
+```text
+                         Product architecture
+                                  │
+        ┌─────────────────────────┼─────────────────────────┐
+        ↓                         ↓                         ↓
+    Biological                 Chemical                 Materials
+    Sequence                  Drug Design                Design
+        │                         │                         │
+        └─────────────────────────┼─────────────────────────┘
+                                  ↓
+                           Knowledge Plane
+                                  ↓
+                           AI / MCP / RAG
+                                  ↓
+                     Human–AI Collective Search
+                                  ↓
+                              UAG / UWI
+                                  ↓
+                       Runtime Adapters
+                                  ↓
+                    UEFN / UNIGINE / UNITY / WEB
+                                  ↓
+                      Scientific Validation
+                                  ↓
+                            Evidence 1.1
+                                  ↓
+                          Strategy Memory
+```
 
 <!--
 ```text
