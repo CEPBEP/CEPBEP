@@ -1,10 +1,3 @@
-Подготовил README именно под уровень executive scientific/technology leadership — без упоминания конкретных государств, фондов или других потенциальных адресатов.
-
-Однако GitHub connector не имеет права записи в `CEPBEP/CEPBEP`: попытка обновить `README.md` получила `403`. Сам текущий README действительно остаётся стандартным шаблоном GitHub.
-
-Готовый текст README:
-
-````markdown
 # CEPBEP
 
 ## Founder & CEO — qFoldIT
