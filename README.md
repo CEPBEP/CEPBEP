@@ -14,7 +14,7 @@
  
    **↓**
  
-- **2019 — qFoldIT development begins as a next-generation extension of the Foldit model.** Following work on **Atomic Heart**, George Ahiakwa begins sustained **experimentation** at major **game-industry** events with scientists, testing how **Fortnite-derived interaction mechanics** can be **adapted for scientific tasks** rather than entertainment alone.
+- **2019 — qFoldIT development begins as a next-generation extension of the Foldit model.** Following work on **Atomic Heart**, ***George Ahiakwa*** begins sustained **experimentation** at major **game-industry** events with scientists, testing how **Fortnite-derived interaction mechanics** can be **adapted for scientific tasks** rather than entertainment alone.
 
    **↓**
 
@@ -68,6 +68,8 @@
 
 - **2026-08-25 — Institutional platform thesis.** **qFoldIT** is positioned as a **governed B2B scientific/Physical-AI** verification pipeline: private runtime nodes can be isolated by organization, scientific authority remains external to gameplay, AI actions remain attributable, and every validated **result can be traced** from mission intake to **scientific evidence**.
 
+<!--
+
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
@@ -82,3 +84,5 @@
     src="./assets/github-snake.svg"
   />
 </picture>
+
+-->
