@@ -1,4 +1,4 @@
-# Hi, i am George Ahiakwa - Founder & CEO — qFoldIT
+# Hi, i am George Ahiakwa <br> Founder & CEO — qFoldIT
 
 ## 18-year evolution timeline: Foldit → qFoldit
 
