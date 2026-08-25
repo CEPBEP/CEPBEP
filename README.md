@@ -64,7 +64,7 @@
 
 - **2026-08-25 — qFoldIT reaches its current platform state.** The **Foldit** legacy of human scientific search is extended into a cross-runtime, agent-connected, evidence-bound execution system: enterprise mission → governed contract → AI/human orchestration → UAG → runtime → submission → independent validation → evidence → validated strategy.
 
- ↓
+   ↓
 
 - **2026-08-25 — Institutional platform thesis.** **qFoldIT** is positioned as a governed B2B **scientific/Physical-AI** verification pipeline: private runtime nodes can be isolated by organization, scientific authority remains external to gameplay, AI actions remain attributable, and every validated result can be traced from mission intake to scientific evidence.
 
