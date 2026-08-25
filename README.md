@@ -50,7 +50,7 @@
                                   ↓
                            AI / MCP / RAG
                                   ↓
-                     Human–AI Collective Search
+                      Human–AI Collective Search
                                   ↓
                               UAG / UWI
                                   ↓
