@@ -1,5 +1,3 @@
-# CEPBEP
-
 ## Founder & CEO — qFoldIT
 
 I lead **qFoldIT**, a scientific technology initiative focused on turning complex scientific and industrial objectives into **interactive, computationally grounded missions** that can be explored by people, AI agents and simulation systems.
