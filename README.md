@@ -2,6 +2,7 @@
 <a href="https://www.cell.com/trends/biotechnology/abstract/S0167-7799(22)00034-8">
  <img alt="LEGO brick road to open science on the cover of Trends in Biotechnology, September 2022." src="https://qfoldit.github.io/assets/lego_biotech.png"/>
 </a>
+
 ![](/assets/LEGO_ADMET.png)
 ## 18-year evolution timeline: Foldit → qFoldit
 
