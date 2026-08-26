@@ -1,7 +1,5 @@
 # Hi, i am    **George Ahiakwa** <br> Founder & CEO — qFoldit
-
 ![](/assets/LEGO_ADMET.png)
-
 ## 18-year evolution timeline: Foldit → qFoldit
 
 - **2008-05-08 — Foldit launches.** A protein-folding game created by the University of Washington **Baker Lab** and **Center for Game Science** establishes the core proposition: human gameplay can become a scientific research instrument.
