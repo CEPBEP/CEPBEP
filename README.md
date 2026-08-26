@@ -1,4 +1,5 @@
 # Hi, i am    **George Ahiakwa** <br> Founder & CEO — qFoldit
+![](https://qfoldit.github.io/assets/lego_biotech.png)
 ![](/assets/LEGO_ADMET.png)
 ## 18-year evolution timeline: Foldit → qFoldit
 
