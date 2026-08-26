@@ -34,6 +34,10 @@
 
    **↓**
 
+- **2026 — Unique architectural convergence: Foldit + qFoldIT become Rust-first.** During 2026, the original Foldit ecosystem and the qFoldIT fork/evolution independently converged on Rust as their canonical systems language. Foldit moved its core application, molecular exchange, viewer and plugin boundaries into a Rust-centered architecture; qFoldIT consolidated its scientific contracts, mission control, UAG/UWI, evidence, runtime adapters, and UEFN Toolbelt into a Rust-first canonical workspace.
+
+   **↓**
+
 - **2026-08-01 — qFoldIT begins maintaining a development diary in the official Anthropic Claude Science developer conversation.** This marks the transition from a **game-science prototype** to an openly **documented scientific-agent integration** program aligned with frontier AI workflows.
 
    **↓**
@@ -67,22 +71,3 @@
    **↓**
 
 - **2026-08-25 — Institutional platform thesis.** **qFoldIT** is positioned as a **governed B2B scientific/Physical-AI** verification pipeline: private runtime nodes can be isolated by organization, scientific authority remains external to gameplay, AI actions remain attributable, and every validated **result can be traced** from mission intake to **scientific evidence**.
-
-<!--
-
-<picture align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="./assets/github-snake.svg"
-  />
-</picture>
-
--->
