@@ -34,7 +34,7 @@
 
    **↓**
 
-- **2026 — Unique architectural convergence: Foldit + qFoldIT become Rust-first.** During 2026, the original Foldit ecosystem and the qFoldIT fork/evolution independently converged on Rust as their canonical systems language. Foldit moved its core application, molecular exchange, viewer and plugin boundaries into a Rust-centered architecture; qFoldIT consolidated its scientific contracts, mission control, UAG/UWI, evidence, runtime adapters, UEFN Toolbelt and Tauri desktop environment into a Rust-first canonical workspace. <br> This convergence is architectural rather than organizational: qFoldIT does not claim ownership of upstream Foldit code or third-party IP.
+- **2026 — Unique architectural convergence: Foldit + qFoldIT become Rust-first.** During 2026, the original Foldit ecosystem and the qFoldIT fork/evolution independently converged on Rust as their canonical systems language. Foldit moved its core application, molecular exchange, viewer and plugin boundaries into a Rust-centered architecture; qFoldIT consolidated its scientific contracts, mission control, UAG/UWI, evidence, runtime adapters, and UEFN Toolbelt into a Rust-first canonical workspace.
 
    **↓**
 
