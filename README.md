@@ -7,6 +7,7 @@
 ![](/assets/video_cover.png)
 -->
 
+![](assets/Miles_Dyson.png)
 ![](/assets/LEGO_ADMET.png)
 ## 18-year evolution timeline: Foldit → qFoldit
 
