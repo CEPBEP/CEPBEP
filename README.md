@@ -1,4 +1,4 @@
-# Hi, i am    **George Ahiakwa** <br> Founder & CEO — qFoldit
+# Hi, i am    **George Ahiakwa** <br> Founder & CEO — qFoldit/Foldnite
 <a href="https://www.cell.com/trends/biotechnology/abstract/S0167-7799(22)00034-8">
  <img alt="LEGO brick road to open science on the cover of Trends in Biotechnology, September 2022." src="https://qfoldit.github.io/assets/lego_biotech.png"/>
 </a>
@@ -6,7 +6,7 @@
  <img alt="Predicting chemical reactivity in a digital lab. An adaptive graph learning method for automated molecular interactions and properties predictions, June 2022." src="assets/nature_virtual_lab.png"/>
 </a>
 <a href="https://biox.stanford.edu/video/usrp-2022-silicon-brain-future-artificial-intelligence">
- <img alt="Predicting chemical reactivity in a digital lab. An adaptive graph learning method for automated molecular interactions and properties predictions, June 2022." src="assets/Miles_Dyson.png"/>
+ <img alt="Foldnite, Miles Bennett Dyson, Kwabena Boahen - Brains In Silicon, Narrative Runtime Layer, Walt Disney, WBD," src="assets/Miles_Dyson.png"/>
 </a>
 <!--
 ![](/assets/video_cover.png)
