@@ -2,7 +2,9 @@
 <a href="https://www.cell.com/trends/biotechnology/abstract/S0167-7799(22)00034-8">
  <img alt="LEGO brick road to open science on the cover of Trends in Biotechnology, September 2022." src="https://qfoldit.github.io/assets/lego_biotech.png"/>
 </a>
-
+<a href="https://www.nature.com/articles/s42256-022-00501-8">
+ <img alt="Predicting chemical reactivity in a digital lab. An adaptive graph learning method for automated molecular interactions and properties predictions, June 2022." src="assets/nature_virtual_lab.png"/>
+</a>
 <!--
 ![](/assets/video_cover.png)
 -->
