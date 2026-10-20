@@ -23,7 +23,7 @@
 
    **↓**
 
-- **2012-09 — Foldit player-guided enzyme design advances the Diels–Alderase project.** Gameplay moves beyond structure prediction into an iterative design → selection → laboratory-testing loop, establishing a precedent for translating player creativity into experimentally testable molecular changes.
+- **2012-01-22 — Foldit player-guided enzyme design advances the Diels–Alderase project.** Gameplay moves beyond structure prediction into an iterative design → selection → laboratory-testing loop, establishing a precedent for translating player creativity into experimentally testable molecular changes.
  
    **↓**
  
@@ -39,6 +39,10 @@
 
    **↓**
 
+- **2022-07 — [Scientific Backdrop] Publication of GLAM.** *Nature Machine Intelligence* publishes an adaptive graph learning method for automated prediction of molecular interactions and properties, demonstrating the growing role of AI in molecular design and aligning with qFoldIT’s scientific trajectory.
+
+   **↓**
+
 - **2022-09 — The “LEGO brick road to open science and biotechnology” vision is published.** The LEGO-like decomposition of scientific work strengthens the conceptual bridge from **Foldit’s molecular manipulation** to **qFoldIT’s** later **Scientific Object / UAG model**.
  
    **↓**
@@ -47,7 +51,39 @@
 
    **↓**
 
+- **2024-11-25 — [External Milestone] Anthropic publishes MCP.** The Model Context Protocol is released as an open standard for connecting AI assistants to external tools and data sources, establishing the foundational protocol layer that qFoldIT will leverage for its scientific MCP mesh.
+
+   **↓**
+
+- **2025-03-27 — [Architectural Convergence] OpenAI adds MCP support to Agents SDK.** OpenAI adopts the open MCP standard, signaling industry-wide convergence on standardized tool-access protocols for AI agents.
+
+   **↓**
+
+- **2025-12-09 — [Institutional Standardization] MCP is transferred to the Linux Foundation.** The protocol moves to the Agentic AI Foundation (AAIF), cementing MCP as a vendor-neutral standard for agentic tool orchestration.
+
+   **↓**
+
 - **2026 — Unique architectural convergence: Foldit + qFoldIT become Rust-first.** During 2026, the original Foldit ecosystem and the qFoldIT fork/evolution independently converged on Rust as their canonical systems language. Foldit moved its core application, molecular exchange, viewer and plugin boundaries into a Rust-centered architecture; qFoldIT consolidated its scientific contracts, mission control, UAG/UWI, evidence, runtime adapters, and UEFN Toolbelt into a Rust-first canonical workspace.
+
+   **↓**
+
+- **2026-03-20 — [Community/qFoldIT Milestone] First public MCP bridge for UEFN.** The initial public commit of the UEFN Toolbelt (by Ocean Bennett / qFoldit network) includes `mcp_server.py` and a loopback HTTP bridge, predating Epic’s native UEFN MCP by 153 days. This establishes the first inspectable public implementation of an agent-to-UEFN-editor control layer.
+
+   **↓**
+
+- **2026-04-15 — [Architectural Convergence] OpenAI updates Agents SDK with sandbox and harness.** OpenAI introduces native sandbox execution and a customizable agent harness (v0.14.0), independently validating the principle of separating orchestration from isolated execution that qFoldIT implements in its governed mission architecture.
+
+   **↓**
+
+- **2026-05-05 — [Architectural Convergence] Unity announces AI tools and MCP Server.** Unity documents an in-editor AI Assistant and MCP Server, enabling agents to interact with scenes, GameObjects, and scripts. This parallels qFoldIT’s Unity Toolbelt approach, though without the scientific mission or validation layer.
+
+   **↓**
+
+- **2026-06-17 — [External Milestone] Unreal Engine 5.8 introduces experimental MCP plugin.** Epic publishes UE 5.8 with a built-in MCP plugin for LLM-engine interaction, marking the first-party entry of Unreal into the agent-accessible editor space.
+
+   **↓**
+
+- **2026-06-30 — [External Milestone] Anthropic launches Claude Science in beta.** Claude Science provides a scientific workbench with a coordinating agent, connectors, and a reviewer agent that checks citations and calculations — conceptually overlapping with qFoldIT’s independent validation goals.
 
    **↓**
 
@@ -84,3 +120,11 @@
    **↓**
 
 - **2026-08-25 — Institutional platform thesis.** **qFoldIT** is positioned as a **governed B2B scientific/Physical-AI** verification pipeline: private runtime nodes can be isolated by organization, scientific authority remains external to gameplay, AI actions remain attributable, and every validated **result can be traced** from mission intake to **scientific evidence**.
+
+   **↓**
+
+- **2026-09-03 — [External Milestone] OpenAI announces GPT-6 Astra.** A frontier model capable of directly controlling browsers, spreadsheets, and desktop software. This represents the maturation of general-purpose agentic orchestration, further validating the need for external scientific validation layers like qFoldIT’s.
+
+   **↓**
+
+- **2026-10-07 — [External Milestone] Google and Unity announce Playground and Spark.** Google launches Playground (prompt-to-game creation in the browser), and Unity announces Unity Spark (AI-assisted 3D game creation in the browser). These events demonstrate the broader industry shift toward agent-accessible spatial creation, reinforcing the market relevance of the Foldnite spatial runtime approach.
